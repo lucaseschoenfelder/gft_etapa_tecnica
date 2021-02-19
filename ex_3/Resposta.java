@@ -34,7 +34,7 @@ class Divisao extends Operacao {
     }
 }
 
-class Program {
+class Resposta {
     public static void main (String[] args) {
         Scanner scanner = new Scanner(System.in);
 

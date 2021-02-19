@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program {
+public class Resposta {
     static void printaErro (String erro) {
         System.out.println(erro);
         System.exit(0);
